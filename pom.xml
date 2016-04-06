@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>bg.abv.TestingAbv</groupId>
-    <artifactId>TestingAbv</artifactId>
+    <artifactId>TestingAbv.bg</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
